@@ -28,7 +28,7 @@
 
 # Results files - uncomment if you don't want to include results
 # /results/*.png
-/results/*.csv
+# /results/*.csv
 /results/*.RData
 
 # OS specific files
